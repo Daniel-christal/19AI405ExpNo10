@@ -1,4 +1,8 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+# Developed By: Daniel C
+# Register Number: 212223240023
+# Aim:
+To Implementation of Classical Planning Algorithm
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
